@@ -1,203 +1,199 @@
+# 👩‍💻 Mamta Sharma
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:6366F1,100:00D9FF&height=250&section=header&text=Mamta%20Sharma&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Software%20Engineer%20•%20AI%20%26%20ML%20Developer&descAlignY=72&descSize=18&stroke=6366F1&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:6366F1,100:00D9FF&height=250&section=header&text=Mamta%20Sharma&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Software%20Engineer%20•%20AI%20%26%20ML%20Developer&descAlignY=72&descSize=18" width="100%" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+ML+Developer;Building+Real+World+Projects;Always+Learning+Always+Building" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=950&lines=Work+hard+until+you+don't+have+to+introduce+yourself...;Building+AI+%26+ML+systems+that+solve+real+problems...;Software+Engineer+%7C+Python+%7C+C+%7C+AI+Developer...;Turning+ideas+into+real-world+applications...;Always+learning+Always+building..." />
+![](https://komarev.com/ghpvc/?username=Mamtasharma001&style=for-the-badge&color=6366F1)
+![](https://img.shields.io/github/followers/Mamtasharma001?style=for-the-badge&logo=github)
+![](https://img.shields.io/github/stars/Mamtasharma001?style=for-the-badge)
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 🚀 About Me
 
 ```yaml
 Name: Mamta Sharma
 Role: Software Engineer
-Pronouns: She/Her
 Location: Palwal, India
 
-Philosophy:
-  "Work hard until you don't have to introduce yourself."
+Degree:
+  B.Tech CSE (AI & ML)
+
+University:
+  JC Bose University of Science & Technology
 
 Focus:
   - Artificial Intelligence
   - Machine Learning
-  - Software Development
+  - Full Stack Development
+  - Software Engineering
+
+Philosophy:
+  Work hard until you don't have to introduce yourself.
 ```
 
-I am a Software Engineer passionate about building intelligent systems using Artificial Intelligence, Machine Learning, and Software Development.
-
-I believe in learning by building real-world projects instead of only studying theory. Every project helps me improve my problem-solving skills while gaining practical development experience.
+I enjoy building practical software that solves real-world problems. I believe the best way to learn is by designing, building, debugging, and continuously improving projects.
 
 ---
 
-# 🎓 Education
+# 🛠 Tech Stack
 
-**College**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,linux,postman,vercel,jupyter,mysql,html,css,js,tensorflow,pytorch&perline=8"/>
+</p>
 
-NGF College of Engineering and Technology, Palwal
+### Badges
 
-**University**
-
-JC Bose University of Science and Technology, YMCA Faridabad
-
-**Degree**
-
-B.Tech in Computer Science Engineering (AI & ML)
-
-**Duration**
-
-2025 – 2029
-
-**CGPA**
-
-7.2
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
 
-# 💻 Skills & Technologies
+# 🌱 Currently Working On
 
-## Programming Languages
-
-- C
-- Python
-
-## Artificial Intelligence & Machine Learning
-
-- Artificial Intelligence Fundamentals
-- Machine Learning Basics
-- Data Handling
-- Model Building
-
-## Tools & Platforms
-
-- Git
-- GitHub
-- VS Code
-- Vercel
-- Jupyter Notebook
-- Postman
-- Linux Basics
-
----
-
-# 🚀 Currently Working On
-
-- AI Powered Applications
+- AI Applications
 - Machine Learning Projects
 - Full Stack Development
-- REST API Based Systems
-- Data Structures & Algorithms
+- REST APIs
+- DSA & Problem Solving
 
 ---
 
-# 💡 Areas of Interest
+# 📚 Education
 
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Web Development
-- Automation Systems
-- Real World Problem Solving
+| Degree | Institute | Duration |
+|---------|-----------|----------|
+| B.Tech CSE (AI & ML) | NGF College of Engineering & Technology | 2025–2029 |
 
----
+**University:** JC Bose University of Science & Technology, YMCA Faridabad
 
-# 🧠 Development Mindset
-
-- Build First, Improve Later
-- Learn by Breaking and Fixing
-- Real World Impact Matters
-- Consistency Over Motivation
-- Keep Systems Simple
+**CGPA:** 7.2
 
 ---
 
-# 🚧 Current Projects
+# 🚧 Featured Projects
 
-- AI Chatbot Assistant
-- Machine Learning Prediction System
-- Smart Automation Tools
-- Portfolio Web Applications
-- API Based Mini Projects
+- 🤖 AI Chatbot Assistant
+- 📈 ML Prediction System
+- ⚡ Smart Automation Tools
+- 🌐 Portfolio Website
+- 🔗 API-based Applications
 
 ---
 
 # 🏆 Achievements
 
-- Strong Foundation in Python
-- Strong Foundation in C Programming
-- Beginner Level AI & ML Knowledge
-- Consistently Building Development Skills
-- Working on Practical Projects
+- Strong Python & C Programming Foundation
+- Consistently Building Real-World Projects
+- Active AI/ML Learner
+- Passionate Software Developer
 
 ---
 
-# 🌟 Personality
+# 📊 GitHub Analytics
 
-- Enjoy Building Projects from Scratch
-- Prefer Practical Learning
-- Learn by Experimenting
-- Believe Discipline Creates Success
-- Stay Consistent
-- Love Turning Ideas into Working Applications
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mamtasharma001&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mamtasharma001&theme=tokyonight&hide_border=true"/>
+</p>
 
----
-
-# 🧭 Motivation
-
-> **"Work hard until you don't have to introduce yourself."**
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamtasharma001&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mamtasharma001&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamtasharma001&theme=tokyonight&hide_border=true" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamtasharma001&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mamtasharma001&theme=tokyo-night)](https://github.com/Mamtasharma001)
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 GitHub Trophies
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mamtasharma001&theme=algolia&no-frame=true&row=2&column=4"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mamtasharma001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+---
 
-</div>
+# 📋 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mamtasharma001&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable a GitHub Action to generate this SVG.
+
+```md
+https://raw.githubusercontent.com/Mamtasharma001/Mamtasharma001/output/github-contribution-grid-snake.svg
+```
+
+---
+
+# 💬 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 😂 Random Dev Joke
+
+![](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+---
+
+# 🎯 Coding Profiles
+
+Replace the usernames below after creating accounts.
+
+- LeetCode Card:
+`https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark`
+
+- Codeforces
+- CodeChef
+- HackerRank
+- GeeksforGeeks
 
 ---
 
 # 📫 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:mamtasharma060106@gmail.com">
-<img src="https://img.shields.io/badge/Email-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Mamtasharma001">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mamta-sharma-a09754383">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6366F1,100:0D1117&height=150&section=footer&text=Keep+Building+Keep+Growing&fontSize=18&fontColor=ffffff" width="100%" />
+### ⭐ "Work hard until you don't have to introduce yourself."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6366F1,100:0D1117&height=130&section=footer"/>
 
 </div>
